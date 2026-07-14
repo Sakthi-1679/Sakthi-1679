@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050806,50:0d3b1d,100:39ff73&height=220&section=header&text=SAKTHIVEL%20R&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Python%20%26%20AI%2FML%20Developer&descSize=21&descAlignY=56&animation=fadeIn)
+![Sakthivel R - Python and AI/ML Developer](./sakthivel-ai-banner.svg)
 
 Building practical intelligent systems with **Python, Machine Learning, Computer Vision and NLP**
 
