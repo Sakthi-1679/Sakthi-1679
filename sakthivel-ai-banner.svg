@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Sakthivel R - Python and AI/ML Developer</title>
+  <desc id="desc">Dark green technology banner highlighting machine learning, computer vision, NLP and backend APIs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030806"/>
+      <stop offset="0.55" stop-color="#07120c"/>
+      <stop offset="1" stop-color="#0b2816"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#78ff9d"/>
+      <stop offset="1" stop-color="#21d96b"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#39ff73" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#39ff73" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#39ff73" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+  <circle cx="960" cy="150" r="245" fill="url(#glow)"/>
+  <rect x="1.5" y="1.5" width="1197" height="317" rx="20.5" fill="none" stroke="#39ff73" stroke-opacity="0.65" stroke-width="3"/>
+
+  <g stroke="#39ff73" stroke-opacity="0.3" stroke-width="1.4">
+    <path d="M780 60L870 96L948 53L1034 98L1118 65"/>
+    <path d="M760 205L842 165L925 216L1015 170L1125 222"/>
+    <path d="M870 96L842 165M948 53L925 216M1034 98L1015 170"/>
+  </g>
+  <g fill="#39ff73" filter="url(#softGlow)">
+    <circle cx="780" cy="60" r="4"/><circle cx="870" cy="96" r="5"/><circle cx="948" cy="53" r="4"/>
+    <circle cx="1034" cy="98" r="5"/><circle cx="1118" cy="65" r="4"/><circle cx="760" cy="205" r="4"/>
+    <circle cx="842" cy="165" r="5"/><circle cx="925" cy="216" r="4"/><circle cx="1015" cy="170" r="5"/><circle cx="1125" cy="222" r="4"/>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="65" y="105" fill="#ffffff" font-size="58" font-weight="800" letter-spacing="2">SAKTHIVEL <tspan fill="url(#accent)">R</tspan></text>
+    <text x="68" y="148" fill="#b9c7be" font-size="22" font-weight="600" letter-spacing="3">PYTHON &amp; AI/ML DEVELOPER</text>
+    <text x="68" y="190" fill="#63f58d" font-size="18">Building practical intelligent systems</text>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#dfe9e2">
+    <g transform="translate(68 224)">
+      <rect width="164" height="40" rx="20" fill="#09130d" stroke="#39ff73" stroke-opacity="0.45"/>
+      <circle cx="21" cy="20" r="5" fill="#39ff73"/><text x="37" y="25">Machine Learning</text>
+    </g>
+    <g transform="translate(244 224)">
+      <rect width="160" height="40" rx="20" fill="#09130d" stroke="#39ff73" stroke-opacity="0.45"/>
+      <circle cx="21" cy="20" r="5" fill="#39ff73"/><text x="37" y="25">Computer Vision</text>
+    </g>
+    <g transform="translate(416 224)">
+      <rect width="92" height="40" rx="20" fill="#09130d" stroke="#39ff73" stroke-opacity="0.45"/>
+      <circle cx="21" cy="20" r="5" fill="#39ff73"/><text x="37" y="25">NLP</text>
+    </g>
+    <g transform="translate(520 224)">
+      <rect width="142" height="40" rx="20" fill="#09130d" stroke="#39ff73" stroke-opacity="0.45"/>
+      <circle cx="21" cy="20" r="5" fill="#39ff73"/><text x="37" y="25">Backend APIs</text>
+    </g>
+  </g>
+
+  <g transform="translate(865 105)" font-family="Segoe UI, Arial, sans-serif" font-weight="800" text-anchor="middle">
+    <rect x="0" y="0" width="86" height="72" rx="16" fill="#07120c" stroke="#39ff73" stroke-width="2" filter="url(#softGlow)"/>
+    <text x="43" y="47" fill="#8dffae" font-size="30">AI</text>
+    <rect x="116" y="0" width="86" height="72" rx="16" fill="#07120c" stroke="#39ff73" stroke-width="2" filter="url(#softGlow)"/>
+    <text x="159" y="47" fill="#8dffae" font-size="30">ML</text>
+  </g>
+</svg>
