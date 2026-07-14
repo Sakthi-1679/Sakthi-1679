@@ -1,75 +1,121 @@
-# Hi, I'm Sakthivel R
+<div align="center">
 
-### Python & AI/ML Developer
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050806,50:0d3b1d,100:39ff73&height=220&section=header&text=SAKTHIVEL%20R&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Python%20%26%20AI%2FML%20Developer&descSize=21&descAlignY=56&animation=fadeIn)
 
-Computer Science Engineering graduate focused on building practical AI/ML systems, backend APIs, and production-ready applications. I work primarily with Python, TensorFlow, scikit-learn, FastAPI, and computer vision/NLP pipelines.
+Building practical intelligent systems with **Python, Machine Learning, Computer Vision and NLP**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sakthivel_R-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sakthivel-r72a15232)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-14b57.web.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-39FF73?style=for-the-badge&logo=googlechrome&logoColor=050806)](https://portfolio-14b57.web.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-39FF73?style=for-the-badge&logo=linkedin&logoColor=050806)](https://www.linkedin.com/in/sakthivel-r72a15232)
+
+</div>
 
 ## About Me
 
-- B.E. Computer Science & Engineering, graduating in 2026 with a CGPA of 7.97/10
-- Building AI applications using CNNs, NLP, computer vision, and recommendation systems
-- Experienced in designing REST APIs and deploying full-stack applications on GCP
-- National Finalist at Odoo Hackathon 2025
-- Round 2 National Qualifier at Cyber Guard AI Hackathon 2025
-- Based in Tamil Nadu, India and open to relocation
+```python
+sakthivel = {
+    "role": "Python & AI/ML Developer",
+    "education": "B.E. Computer Science & Engineering (2026)",
+    "focus": ["Machine Learning", "Computer Vision", "NLP", "Backend APIs"],
+    "location": "Tamil Nadu, India",
+    "open_to": "Entry-level Python and AI/ML opportunities"
+}
+```
 
-## Technical Skills
+- Built and deployed NLP, CNN, recommendation, and full-stack applications
+- National Finalist at **Odoo Hackathon 2025**
+- Round 2 National Qualifier at **Cyber Guard AI Hackathon 2025**
+- B.E. CSE graduate with **7.97/10 CGPA**
 
-| Area | Technologies |
-| --- | --- |
-| Languages | Python, SQL, Java, JavaScript |
-| AI/ML | TensorFlow, Keras, scikit-learn, CNN, NLP, TF-IDF, OpenCV |
-| Backend | FastAPI, Spring Boot, Node.js, Express, REST APIs |
-| Frontend | React, Vite, HTML5, CSS3 |
-| Databases | MySQL, SQL Server, Oracle SQL, Prisma ORM |
-| Cloud & DevOps | GCP, Docker, GitHub Actions, Vercel, Linux |
-| Tools | Git, GitHub, Postman, VS Code |
+## Tech Stack
 
-## Featured Projects
+### AI, Machine Learning & Computer Vision
 
-### Emotion-Based Movie Recommendation System
+![Python](https://img.shields.io/badge/Python-050806?style=for-the-badge&logo=python&logoColor=39FF73)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-050806?style=for-the-badge&logo=tensorflow&logoColor=39FF73)
+![Keras](https://img.shields.io/badge/Keras-050806?style=for-the-badge&logo=keras&logoColor=39FF73)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-050806?style=for-the-badge&logo=scikitlearn&logoColor=39FF73)
+![OpenCV](https://img.shields.io/badge/OpenCV-050806?style=for-the-badge&logo=opencv&logoColor=39FF73)
 
-An AI-powered recommendation platform that detects facial emotion and recommends movies using a four-layer architecture.
+### Backend, Databases & Web
 
-- Developed a custom CNN with TensorFlow and Keras using the FER2013 dataset
-- Used OpenCV for real-time facial emotion inference
-- Built a FastAPI backend with a MySQL recommendation engine
-- Applied data augmentation and achieved over 85% emotion-recognition accuracy
+![FastAPI](https://img.shields.io/badge/FastAPI-050806?style=for-the-badge&logo=fastapi&logoColor=39FF73)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-050806?style=for-the-badge&logo=springboot&logoColor=39FF73)
+![Node.js](https://img.shields.io/badge/Node.js-050806?style=for-the-badge&logo=nodedotjs&logoColor=39FF73)
+![Express](https://img.shields.io/badge/Express-050806?style=for-the-badge&logo=express&logoColor=39FF73)
+![React](https://img.shields.io/badge/React-050806?style=for-the-badge&logo=react&logoColor=39FF73)
+![MySQL](https://img.shields.io/badge/MySQL-050806?style=for-the-badge&logo=mysql&logoColor=39FF73)
+![Java](https://img.shields.io/badge/Java-050806?style=for-the-badge&logo=openjdk&logoColor=39FF73)
+![JavaScript](https://img.shields.io/badge/JavaScript-050806?style=for-the-badge&logo=javascript&logoColor=39FF73)
 
-[View repository](https://github.com/Sakthi-1679/Final-Complete)
+### Cloud & Development Tools
 
-### Cyber Crime Report Classification System
+![GCP](https://img.shields.io/badge/Google_Cloud-050806?style=for-the-badge&logo=googlecloud&logoColor=39FF73)
+![Docker](https://img.shields.io/badge/Docker-050806?style=for-the-badge&logo=docker&logoColor=39FF73)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-050806?style=for-the-badge&logo=githubactions&logoColor=39FF73)
+![Git](https://img.shields.io/badge/Git-050806?style=for-the-badge&logo=git&logoColor=39FF73)
+![Postman](https://img.shields.io/badge/Postman-050806?style=for-the-badge&logo=postman&logoColor=39FF73)
+![Linux](https://img.shields.io/badge/Linux-050806?style=for-the-badge&logo=linux&logoColor=39FF73)
 
-An NLP pipeline that classifies cybercrime complaints and exposes predictions through a REST API.
+## Featured AI Projects
 
-- Implemented tokenization, stop-word filtering, and TF-IDF feature extraction
-- Trained scikit-learn classification models with over 90% reported accuracy
-- Presented the solution to cybersecurity stakeholders at I4C/MHA, New Delhi
-- Advanced to Round 2 of the national Cyber Guard AI Hackathon
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[View repository](https://github.com/Sakthi-1679/IND_AI-Hackathon)
+### Emotion-Based Movie Recommendation
 
-### Full-Stack E-Learning Platform
+CNN-powered system that detects facial emotion in real time and recommends movies.
 
-A deployed learning platform built for an IIT-JEE/NEET coaching institute.
+**Stack:** Python, TensorFlow, Keras, OpenCV, FastAPI, MySQL, Docker
 
-- Developed secure APIs with Node.js, Express, Prisma, and MySQL
-- Integrated Google OAuth, JWT authentication, and Razorpay payments
-- Built timed tests, real-time scoring, leaderboards, and progress analytics
-- Deployed services using GCP and Vercel
+- Custom CNN trained with FER2013
+- Real-time OpenCV inference
+- 85%+ reported recognition accuracy
+
+[View Repository](https://github.com/Sakthi-1679/Final-Complete)
+
+</td>
+<td width="50%" valign="top">
+
+### Cyber Crime Report Classification
+
+NLP pipeline that classifies cybercrime complaint text through a REST API.
+
+**Stack:** Python, NLP, TF-IDF, scikit-learn, FastAPI, MySQL
+
+- End-to-end text preprocessing
+- 90%+ reported classification accuracy
+- Presented at I4C/MHA, New Delhi
+
+[View Repository](https://github.com/Sakthi-1679/IND_AI-Hackathon)
+
+</td>
+</tr>
+</table>
+
+## Professional Experience
+
+### Freelance Web Developer - Instil Academy
+
+- Delivered a full-stack e-learning platform for IIT-JEE/NEET students
+- Built secure APIs using Node.js, Express, Prisma and MySQL
+- Integrated Google OAuth, JWT authentication and Razorpay payments
+- Deployed using Google Cloud Platform and Vercel
 
 ## GitHub Activity
 
-![Sakthivel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakthi-1679&show_icons=true&hide_border=true&theme=transparent)
+<div align="center">
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthi-1679&layout=compact&hide_border=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakthi-1679&show_icons=true&hide_border=true&bg_color=050806&title_color=39FF73&icon_color=39FF73&text_color=ffffff)
 
-## Current Focus
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthi-1679&layout=compact&hide_border=true&bg_color=050806&title_color=39FF73&text_color=ffffff)
 
-- Strengthening machine-learning fundamentals and model evaluation
-- Building deployable computer vision and NLP applications
-- Improving MLOps, Docker, cloud deployment, and CI/CD skills
-- Open to entry-level Python and AI/ML opportunities
+</div>
+
+---
+
+<div align="center">
+
+### Learn. Build. Deploy. Improve.
+
+</div>
